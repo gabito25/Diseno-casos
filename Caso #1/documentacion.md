@@ -1,4 +1,5 @@
 # Caso #1: Entregable 2
+Estudiantes: Gabriel Gutiérrez Mata y Alonso Hernández.
 
 ## App Asistant
 
